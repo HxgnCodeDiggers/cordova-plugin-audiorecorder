@@ -7,6 +7,7 @@
 //
 
 #import <AVFoundation/AVFoundation.h>
+#import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSUInteger, OSCancelReason) {
     OS_USER_CANCELLED = 1,
